@@ -1,7 +1,0 @@
-# alias gt="git"
-alias gti="git"
-alias gpush="git push"
-alias gpull="git pull"
-alias st="status"
-# alias br="branch"
-# alias co="checkout"
